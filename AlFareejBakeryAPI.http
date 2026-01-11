@@ -1,0 +1,6 @@
+@AlFareejBakeryAPI_HostAddress = http://localhost:5155
+
+GET {{AlFareejBakeryAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
